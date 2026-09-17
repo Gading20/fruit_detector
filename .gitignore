@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# YOLO Training
+runs/
+*.pt
+*.weights
+*.onnx
+
+# Dataset (terlalu besar untuk GitHub)
+dataset/
+yolo_dataset/
+
+# Images
+results/
+*.jpg
+*.jpeg
+*.png
+*.bmp
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Temporary
+*.tmp
+*.temp
+.cache/
