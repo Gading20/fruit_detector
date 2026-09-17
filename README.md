@@ -118,3 +118,7 @@ Project ini dibuat untuk tugas test kerja.
 ## Author
 
 Dibuat dengan menggunakan YOLOv8 (Ultralytics)
+
+## Contributors
+
+- **Gading20** - gadingilham20@gmail.com
